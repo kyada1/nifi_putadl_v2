@@ -1,0 +1,3 @@
+nifi\azure\dlstore\processors\PutFileAzureDLStore.class
+nifi\azure\dlstore\processors\PutFileAzureDLStore$1.class
+nifi\azure\dlstore\processors\AzureSDKWrapper.class
